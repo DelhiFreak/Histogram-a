@@ -1,0 +1,9 @@
+{
+  "name": "express-html",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.11.0",
+    "path": "^0.12.7",
+    "python-shell": "^0.4.0"
+  }
+}
